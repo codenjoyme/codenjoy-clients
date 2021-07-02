@@ -1,0 +1,32 @@
+[submodule "java"]
+	path = java
+	url = https://github.com/codenjoyme/codenjoy-java-client.git
+	branch = master
+[submodule "scala"]
+	path = scala
+	url = https://github.com/codenjoyme/codenjoy-scala-client.git
+	branch = master
+[submodule "pseudo"]
+	path = pseudo
+	url = https://github.com/codenjoyme/codenjoy-pseudo-client.git
+	branch = master
+[submodule "python"]
+	path = python
+	url = https://github.com/codenjoyme/codenjoy-python-client.git
+	branch = master
+[submodule "php"]
+	path = php
+	url = https://github.com/codenjoyme/codenjoy-php-client.git
+	branch = master
+[submodule "go"]
+	path = go
+	url = https://github.com/codenjoyme/codenjoy-go-client.git
+	branch = master
+[submodule "cpp"]
+	path = cpp
+	url = https://github.com/codenjoyme/codenjoy-cpp-client.git
+	branch = master
+[submodule "javascript"]
+	path = javascript
+	url = https://github.com/codenjoyme/codenjoy-javascript-client.git
+	branch = master
