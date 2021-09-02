@@ -30,3 +30,6 @@
 	path = javascript
 	url = https://github.com/codenjoyme/codenjoy-javascript-client.git
 	branch = master
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/codenjoyme/codenjoy-ruby-client.git
