@@ -33,3 +33,6 @@
 [submodule "ruby"]
 	path = ruby
 	url = https://github.com/codenjoyme/codenjoy-ruby-client.git
+[submodule "kotlin"]
+	path = kotlin
+	url = https://github.com/codenjoyme/codenjoy-kotlin-client.git
