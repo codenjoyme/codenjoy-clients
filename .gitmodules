@@ -36,3 +36,6 @@
 [submodule "kotlin"]
 	path = kotlin
 	url = https://github.com/codenjoyme/codenjoy-kotlin-client.git
+[submodule "csharp"]
+	path = csharp
+	url = https://github.com/codenjoyme/codenjoy-csharp-client.git
