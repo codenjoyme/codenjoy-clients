@@ -39,3 +39,6 @@
 [submodule "csharp"]
 	path = csharp
 	url = https://github.com/codenjoyme/codenjoy-csharp-client.git
+[submodule "old"]
+	path = old
+	url = https://github.com/codenjoyme/codenjoy-clients-old.git
